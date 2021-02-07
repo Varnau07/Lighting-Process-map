@@ -211,6 +211,34 @@
         }, 
         {
          "draworder":"topdown",
+         "id":25,
+         "name":"Canap\u00e9",
+         "objects":[
+                {
+                 "height":172,
+                 "id":35,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":412,
+                 "x":1526,
+                 "y":562
+                }],
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiTrigger: onaction",
+                 "type":"string",
+                 "value":"Canap\u00e9"
+                }],
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":19,
          "name":"WC",
          "objects":[
@@ -471,8 +499,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":25,
- "nextobjectid":35,
+ "nextlayerid":26,
+ "nextobjectid":36,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
